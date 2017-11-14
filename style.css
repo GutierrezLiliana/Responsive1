@@ -25,17 +25,3 @@ body{
 .green1 {background-color: #00FF00;}
 .green2 {background-color: #228B22;}
 .green3 {background-color: #008000;}
-
-@media screen and (max-width:800px){
-	.column-1{
-		height: 40vh;
-	}
-	.column-2{
-		height: 60vh;
-	}
-	
-	.box{
-	height: 50%;
-	width: 50%;
-	}
-}
